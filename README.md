@@ -23,7 +23,7 @@ Ce projet constitue une __évolution naturelle__ vers les disciplines du ***DevO
 
 ---
 
-## 🗂️ Organisation du Dépôt
+## 🗂️ Organisation du dépôt
 
 Ce dépôt est structuré de la manière suivante pour assurer une ***organisation claire et une navigation facilitée*** :
 
@@ -45,9 +45,9 @@ HackTheBox/
 
 ### Convention de Nommage
 
-- Les writeups sont nommés selon le **`format : [Machine-Name]`** (ex: `Lame`, `Legacy`, `Blue`)
+- Les writeups sont nommés selon le **format : `[Machine-Name]`** (ex: `Lame`, `Legacy`, `Blue`)
 - Chaque machine dispose d'un ***dossier dédié*** contenant la documentation et les ressources associées
-- Les fichiers de code ou scripts utilisent l'extension appropriée (`.sh`, `.py`, `.rb`, etc.)
+- Les fichiers de code ou scripts utilisent l'extension appropriée (`.sh`, `.py`, etc.)
 
 ---
 
